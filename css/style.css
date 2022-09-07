@@ -477,7 +477,7 @@ p.sub-meta {
 /*-- stats --*/
 
 .stats {
-    background: url(../images/stats.jpg) no-repeat 0px 0px;
+    background: url(../images/andre-benz-cXU6tNxhub0-unsplash\ \(1\).jpg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -490,7 +490,7 @@ p.sub-meta {
     font-size: 2.5em;
     letter-spacing: 1px;
     font-weight: 700;
-    color: #fff;
+    color: rgb(255, 255, 255);
 }
 
 .stats_info h4 {
@@ -502,7 +502,7 @@ p.sub-meta {
 
 .stats_info i {
     font-size: 2.3em;
-    color: #ffc107;
+    color: #07ffb5;
     margin: 0;
 }
 
@@ -612,7 +612,7 @@ p.quia {
 /*-- //gallery --*/
 
 .experience {
-    background: url(../images/exp.jpg) no-repeat 0px 0px;
+    background: url(../images/pexels-pixabay-509922.jpg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -745,7 +745,7 @@ a.carousel-control-prev.test {
 
 .address-grid i {
     font-size: 2em;
-    color: #ffd900;
+    color: #00ffbb;
 }
 
 .contact_grid_right {
@@ -805,7 +805,7 @@ p.sub {
 }
 
 .contact_grid_right input[type="submit"]:hover {
-    background: #ffd900;
+    background: #00ffae;
 }
 
 .contact_grid_right input[type="text"]:focus,
